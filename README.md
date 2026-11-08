@@ -13,6 +13,8 @@ Open-source agent skills (Hermes) that run real pipelines end-to-end: no key jug
 | [StockWatcher](https://github.com/FelixM2011/StockWatcher) | Watchlist monitoring: technicals via xfinance + Reddit sentiment, scheduled alerts |
 | [redditTrendanalysis](https://github.com/FelixM2011/redditTrendanalysis) | Deep, web-based sentiment & trend analysis on public data |
 | [AustrianLawWatcher](https://github.com/FelixM2011/AustrianLawWatcher) | Watches new Austrian government bills (Ministerialentwürfe) on parlament.gv.at and flags changes |
+| [eu-regulation-watcher](https://github.com/FelixM2011/eu-regulation-watcher) | Better-Regulation watcher: newest EU regulation initiatives open for consultation, as a German Markdown digest |
+| [MemoryDiary](https://github.com/FelixM2011/MemoryDiary) | Durable memory: appends chat messages &amp; life experiences to per-chat Markdown daily journals (optional yearly rotation), keyless |
 | [Stocks-and-Market-Analysis](https://github.com/FelixM2011/Stocks-and-Market-Analysis) | Multi-stock market analysis engine — full TA chapters, keyless data sources |
 | [project-research](https://github.com/FelixM2011/project-research) | Project management & research assistant: local project state + web search workflows |
 
@@ -25,7 +27,7 @@ Open-source agent skills (Hermes) that run real pipelines end-to-end: no key jug
 
 ## Environment
 
-Python 3 • Hermes Agent (multi-platform) • Linux (Tumbleweed/CatchyOS/Windows11) • SearXNG • Git/GitHub
+Python 3 • HTML / CSS / JavaScript • Hermes Agent (multi-platform) • Linux (Tumbleweed/CatchyOS/Windows11) • SearXNG • Git/GitHub
 
 ---
 *Wien, Österreich — always shipping: [repos](https://github.com/FelixM2011?tab=repositories) → pinned highlights on this page.*
