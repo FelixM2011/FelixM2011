@@ -27,7 +27,7 @@ Open-source agent skills (Hermes) that run real pipelines end-to-end: no key jug
 
 ## Environment
 
-Python 3 • HTML / CSS / JavaScript • Hermes Agent (multi-platform) • Linux (Tumbleweed/CatchyOS/Windows11) • SearXNG • Git/GitHub
+HTML / CSS / JavaScript • Hermes Agent (multi-platform) • Linux (Tumbleweed/CatchyOS/Windows11) • SearXNG • Git/GitHub
 
 ---
 *Wien, Österreich — always shipping: [repos](https://github.com/FelixM2011?tab=repositories) → pinned highlights on this page.*
